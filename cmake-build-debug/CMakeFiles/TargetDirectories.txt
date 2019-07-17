@@ -1,0 +1,3 @@
+D:/cpp_boost_profesional/cmake-build-debug/CMakeFiles/hash.dir
+D:/cpp_boost_profesional/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpp_boost_profesional/cmake-build-debug/CMakeFiles/rebuild_cache.dir

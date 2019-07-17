@@ -1,0 +1,4 @@
+D:\program\JetBrains\CLion-2019.1.win\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\cpp_boost_profesional
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/cpp_boost_profesional/cmake-build-debug
